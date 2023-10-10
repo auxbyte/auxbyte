@@ -1,5 +1,5 @@
 # Hi there, I'm Michael 👋
-<h4 align="center">🎓Computer Science Student | 💻Future Software Engineer | 💾Former Systems Administrator</h4>
+<h4 align="center">💾Former Systems Administrator | 🎓Computer Science Student | 💻Future Software Engineer</h4>
 <p>Feel free to connect with me on <a href="url">LinkedIn</a> and explore my projects on <a href="https://github.com/auxbyte?tab=repositories">GitHub</a>.<br>Let's collaborate and innovate together!</p>
 
 #
@@ -60,9 +60,6 @@
 <div align="left">
 <a href="https://soundcloud.com/auxbyte">
   <img src="https://img.shields.io/badge/Ableton Live-000000?logo=abletonlive&logoColor=white&style=for-the-badge" height="40" alt="abletonlive logo"  />
-</a>
-<a href="https://github.com/auxbyte">
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="40" alt="adobephotoshop logo"  />
 </a>
 </div>
 
