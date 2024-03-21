@@ -1,21 +1,5 @@
-# Hi there, I'm Michael 👋
 <h4 align="center">💾Former Systems Administrator | 🎓Computer Science Student | 💻Future Software Engineer</h4>
-<p>Feel free to connect with me on <a href="url">LinkedIn</a> and explore my projects on <a href="https://github.com/auxbyte?tab=repositories">GitHub</a>.<br>Let's collaborate and innovate together!</p>
-
-#
-
-<h3 align="left">Currently Learning (& Debugging)</h3>
-
-###
-
-<div align="left">
-  <a href="https://github.com/auxbyte">
-    <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
-  </a>
-  <a href="https://github.com/auxbyte?tab=repositories&q=&type=&language=c%23">
-    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
-  </a>
-</div>
+<p>Feel free to connect with me on <a href="https://www.linkedin.com/in/mjaparent/">LinkedIn</a></p>
 
 #
 
@@ -32,17 +16,6 @@
 </div>
 
 <div align="left">
-  <a href="https://github.com/auxbyte">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
-  </a>
-  <a href="https://github.com/auxbyte">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-  </a>
-</div>
-
-
-
-<div align="left">
   <a href="https://github.com/auxbyte?tab=repositories&q=&type=&language=powershell">
     <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=black&style=for-the-badge" height="40" alt="powershell logo"  />
   </a>
@@ -51,11 +24,6 @@
   </a>
 </div>
 
-<div align="left">
-  <a href="https://github.com/auxbyte">
-    <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="40" alt="azure logo"  />
-  </a>
-</div>
 
 <div align="left">
 <a href="https://soundcloud.com/auxbyte">
